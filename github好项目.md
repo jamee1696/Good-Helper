@@ -37,3 +37,8 @@
 > 1. [C#算法和数据结构](https://github.com/aalhour/C-Sharp-Algorithms)
 > 1. [ABP项目](https://github.com/aspnetboilerplate/aspnetboilerplate)  [帮助文档](https://aspnetboilerplate.com/Pages/Documents/Introduction)
 > 1. [ABP项目](https://github.com/abpframework/)  [帮助文档](https://docs.abp.io/zh-Hans/abp/latest/Getting-Started-Console-Application)
+
+### C#工具
+> 1. [数据库文档生成工具](https://gitee.com/lztkdr/DBCHM)
+> 1. [开发助手](https://gitee.com/sqlorm/DevelopAssistant)
+> 1. [SqlSugar.Tools] (https://github.com/q7164518/SqlSugar.Tools)
